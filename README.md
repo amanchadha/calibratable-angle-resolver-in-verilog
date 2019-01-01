@@ -1,6 +1,7 @@
-# Calibratable Angle Resolver | Verilog
+# Calibratable Angle Resolver
 
 Verilog
+-------
 
 Authors: Aman Chadha, Vinay Gangadhar
 
